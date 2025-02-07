@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "sphereML"]
+	path = sphereML
+	url = https://github.com/santosoph/sphereml
 [submodule "spheredata"]
 	path = spheredata
 	url = https://github.com/santosoph/spheredata
